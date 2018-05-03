@@ -41,25 +41,14 @@ brew install screen
 
 # Install font tools.
 brew tap bramstein/webfonttools
-brew install sfnt2woff
-brew install sfnt2woff-zopfli
-brew install woff2
 
 # Install other useful binaries.
 brew install ack
-brew install exiv2
-brew install fd
-brew install ffmpeg
 brew install git
-brew install git-lfs
 brew install gource
 brew install imagemagick --with-webp
-brew install mercurial
-brew install pv
-brew install python
-brew install speedtest_cli
+brew install python@2
 brew install tree
-brew install webkit2png
 brew install yarn
 
 # Remove outdated versions from the cellar.
