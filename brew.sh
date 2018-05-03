@@ -36,24 +36,16 @@ brew install wget --with-iri
 # Install more recent versions of some macOS tools.
 brew install vim --with-override-system-vi
 brew install grep
-brew install openssh
-brew install screen
 
 # Install font tools.
 brew tap bramstein/webfonttools
 
 # Install other useful binaries.
-brew install ack
 brew install git
 brew install gource
-brew install imagemagick --with-webp
 brew install python@2
 brew install tree
 brew install yarn
 
 # Remove outdated versions from the cellar.
 brew cleanup
-
-# Install python stuff
-brew tap homebrew/python
-brew install pillow
