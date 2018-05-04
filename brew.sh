@@ -35,7 +35,6 @@ brew install wget --with-iri
 
 # Install more recent versions of some macOS tools.
 brew install vim --with-override-system-vi
-brew install grep
 
 # Install font tools.
 brew tap bramstein/webfonttools
