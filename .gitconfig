@@ -190,7 +190,7 @@
 
 [push]
 
-  default = simple
+  default = current
 
 [color "diff-highlight"]
 
