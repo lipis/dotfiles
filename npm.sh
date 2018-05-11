@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+npm install -g flow-bin
 npm install -g gatsby
 npm install -g git-open
 npm install -g grunt
