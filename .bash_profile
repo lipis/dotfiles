@@ -1,6 +1,7 @@
 # Add `~/bin` to the `$PATH`
 export PATH="$HOME/bin:$HOME/bin/wire-open-source:$PATH";
 export PATH="$HOME/flutter/bin:$PATH";
+export PATH="$HOME/Android/bin:$PATH";
 
 # Load the shell dotfiles, and then some:
 # * ~/.path can be used to extend `$PATH`.
