@@ -37,17 +37,6 @@ brew install wget --with-iri
 
 # Install more recent versions of some macOS tools.
 brew install vim --with-override-system-vi
-<<<<<<< HEAD
-=======
-brew install grep
-brew install openssh
-brew install screen
-brew install php
-brew install gmp
->>>>>>> 5368015b53467949c36f1e386582ac066b0d0ae6
-
-# Install font tools.
-brew tap bramstein/webfonttools
 
 # Install other useful binaries.
 brew install git
