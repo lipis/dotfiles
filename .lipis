@@ -22,6 +22,7 @@ alias mars='cd ~/work/wire/wire-webapp'
 alias taco='cd ~/work/wire/wire-desktop'
 alias tapas='cd ~/work/wire/tapas'
 alias wire='cd ~/work/wire'
+alias invest='cd ~/work/openinvest'
 
 # Crowdin
 alias crowdin='java -jar /usr/local/bin/crowdin-cli.jar'
