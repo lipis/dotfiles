@@ -22,7 +22,7 @@ brew install moreutils
 brew install findutils
 # Install GNU `sed`, overwriting the built-in `sed`.
 brew install gnu-sed --with-default-names
-# Install a modern version of Bash.
+# Install Bash 4.
 brew install bash
 brew install bash-completion2
 
@@ -37,6 +37,9 @@ brew install wget --with-iri
 
 # Install more recent versions of some macOS tools.
 brew install vim --with-override-system-vi
+
+# Install font tools.
+brew tap bramstein/webfonttools
 
 # Install other useful binaries.
 brew install git

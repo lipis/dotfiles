@@ -1,4 +1,5 @@
 alias killp='killall Python -9'
+alias killn='killall node -9'
 
 alias babel='cd ~/work/lipis/gae-init/babel'
 alias debug='cd ~/work/lipis/gae-init/debug'
