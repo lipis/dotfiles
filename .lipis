@@ -25,9 +25,6 @@ alias tapas='cd ~/work/wire/tapas'
 alias wire='cd ~/work/wire'
 alias invest='cd ~/work/openinvest'
 
-# Crowdin
-alias crowdin='java -jar /usr/local/bin/crowdin-cli.jar'
-
 # The next line updates PATH for the Google Cloud SDK.
 source /Users/lipis/google-cloud-sdk/path.bash.inc
 
