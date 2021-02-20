@@ -24,6 +24,7 @@ alias taco='cd ~/work/wire/wire-desktop'
 alias tapas='cd ~/work/wire/tapas'
 alias wire='cd ~/work/wire'
 alias invest='cd ~/work/openinvest'
+alias excalidraw='cd ~/work/excalidraw'
 
 # The next line updates PATH for the Google Cloud SDK.
 source /Users/lipis/google-cloud-sdk/path.bash.inc
